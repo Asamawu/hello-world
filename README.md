@@ -65,3 +65,15 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
+git pull origin
+remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 794 bytes | 1024 bytes/s, done.
+From https://github.com/w3schools-test/hello-world
+   a7cdd4b..ab6b4ed  master       -> origin/master
+Updating a7cdd4b..ab6b4ed
+Fast-forward
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
