@@ -40,3 +40,17 @@ Date:   Fri Mar 26 12:42:56 2021 +0100
 
 ...
 ...
+git diff origin/master
+diff --git a/README.md b/README.md
+index 23a0122..a980c39 100644
+--- a/README.md
++++ b/README.md
+@@ -2,6 +2,4 @@
+ Hello World repository for Git tutorial
+ This is an example repository for the Git tutoial on https://www.w3schools.com
+
+-This repository is built step by step in the tutorial.
+-
+-It now includes steps for GitHub
++This repository is built step by step in the tutorial.
+\ No newline at end of file
