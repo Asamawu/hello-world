@@ -90,6 +90,12 @@ Fast-forward
 <p>This is the first file in my new Git Repo.</p>
 <p>This line is here to show how merging works.</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
 
 </body>
 </html>
