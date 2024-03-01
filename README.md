@@ -60,3 +60,8 @@ Updating e0b6038..d29d69f
 Fast-forward
  README.md | 4 +++-
  1 file changed, 3 insertions(+), 1 deletion(-)
+git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
