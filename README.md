@@ -54,3 +54,9 @@ index 23a0122..a980c39 100644
 -It now includes steps for GitHub
 +This repository is built step by step in the tutorial.
 \ No newline at end of file
+
+git merge origin/master
+Updating e0b6038..d29d69f
+Fast-forward
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
